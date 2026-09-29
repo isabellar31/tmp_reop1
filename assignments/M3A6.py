@@ -17,4 +17,4 @@ elif score >= 60:
 else:
     letter_grade = "F"
 
-print(f"{student_name} earned an {letter_grade}")
+print(f"{student_name} earned a {letter_grade}")
