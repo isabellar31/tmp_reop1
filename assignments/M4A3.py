@@ -16,7 +16,7 @@ game_del = input("What game should we remove? ")
 
 del games_dict[game_del]
 
-print("The new dicitionary is: ")
+print("The new dictionary is:")
 
 for game, system in games_dict.items():
     print(f"You can play {game} on {system}")
