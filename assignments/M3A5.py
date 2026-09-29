@@ -13,6 +13,6 @@ for number in num_list:
     if number % 5 == 0:
         sum_int = sum_int + number
 
-print(f"The total value of multiples of {start_int} from {end_int} to {sum_int}")
+print(f"The total value of multiples of 5 from {start_int} to {end_int} is {sum_int}")
 
 
